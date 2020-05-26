@@ -1,0 +1,75 @@
+
+		body
+			{
+			 background:#FBFBFB;
+			}
+
+		header
+			{
+			color: white;
+			font-size: 20px;
+			width: 46%;
+			height: 50px;
+			margin: 0 auto;
+			z-index: -5;
+			}
+
+		nav
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 2%;
+			color: black;
+			font-size: 55px;
+			width: 90%;
+			height: 15%;
+			position: absolute;
+			top: 15%;
+			left: 5%;
+			z-index: -5;
+			}
+
+		.uno
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 2%;
+			color: black;
+			font-size: 30px;
+			width: 40%;
+			height: 15%;
+			position: absolute;
+			top: 43%;
+			left: 5%;
+			z-index: -5;
+			}
+
+		section
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 2%;
+			color: black;
+			font-size: 18px;
+			width: 40%;
+			height: 17%;
+			position: absolute;
+			top: 70%;
+			left: 5%;
+			z-index: -5;
+			}
+
+		aside
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 2%;
+			color: black;
+			font-size: 18px;
+			width: 40%;
+			height: 46%;
+			position: absolute;
+			top: 41%;
+			left: 55%;
+			z-index: -5;
+			}

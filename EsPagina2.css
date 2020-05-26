@@ -1,0 +1,181 @@
+
+		body
+			{
+			 background: #FBFBFB ;
+			}
+
+		header
+			{
+			color: white;
+			font-size: 20px;
+			width: 46%;
+			height: 50px;
+			margin: 0 auto;
+			z-index: -5;
+			}
+
+		nav
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 2%;
+			color: black;
+			font-size: 40px;
+			width: 90%;
+			height: 15%;
+			position: absolute;
+			top: 15%;
+			left: 5%;
+			z-index: -5;
+			}
+
+		section 
+			{
+			border: inset #C0C0C0 1px;
+			padding-top: 2%;
+			padding-left: 1%;
+			padding-right: 1%;
+			color: black;
+			font-size: 18px;
+			width: 88%;
+			height: 15%;
+			position: absolute;
+			top: 42%;
+			left: 5%;
+			z-index: -5;
+			}
+
+		.uno
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 2%;
+			color: black;
+			font-size: 18px;
+			width: 25%;
+			height: 50%;
+			position: absolute;
+			top: 70%;
+			left: 5%;
+			z-index: -5;
+			}
+
+		.dos
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 2%;
+			color: black;
+			font-size: 18px;
+			width: 25%;
+			height: 50%;
+			position: absolute;
+			top: 70%;
+			left: 38%;
+			z-index: -5;
+			}
+
+		.tres
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 2%;
+			color: black;
+			font-size: 18px;
+			width: 25%;
+			height: 50%;
+			position: absolute;
+			top: 70%;
+			left: 70%;
+			z-index: -5;
+			}
+
+		.cuatro
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 1%;
+			color: black;
+			font-size: 18px;
+			width: 25%;
+			height: 32%;
+			position: absolute;
+			top: 128%;
+			left: 5%;
+			z-index: -5;
+			}
+
+		.cinco
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 1%;
+			color: black;
+			font-size: 18px;
+			width: 25%;
+			height: 32%;
+			position: absolute;
+			top: 128%;
+			left: 38%;
+			z-index: -5;
+			}
+
+		.seis
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 1%;
+			color: black;
+			font-size: 18px;
+			width: 25%;
+			height: 32%;
+			position: absolute;
+			top: 128%;
+			left: 70%;
+			z-index: -5;
+			}
+
+		.siete 
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 2%;
+			color: black;
+			font-size: 18px;
+			width: 43%;
+			height: 55%;
+			position: absolute;
+			top: 170%;
+			left: 52%;
+			z-index: -5;
+			}
+
+		aside 
+			{
+			border: inset #C0C0C0 1px;
+			text-align: center;
+			padding-top: 2%;
+			color: black;
+			font-size: 18px;
+			width: 43%;
+			height: 55%;
+			position: absolute;
+			top: 170%;
+			left: 5%;
+			z-index: -5;
+			}
+
+		footer 
+			{
+			border: inset #C0C0C0 1px;
+			padding-top: 2%;
+			padding-left: 2%;
+			color: black;
+			font-size: 12px;
+			width: 88%;
+			height: 5%;
+			position: absolute;
+			top: 240%;
+			left: 5%;
+			z-index: -5;
+			}
